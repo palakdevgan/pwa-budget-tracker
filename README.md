@@ -11,6 +11,7 @@ It is a Node.js budget tracker application that provides offline access and func
 [Usage](#usage)  
 [Contributing](#how-to-contribute)  
 [License](#license)  
+[Screenshot](#screenshot)
 
 ## Installation
 
@@ -28,6 +29,10 @@ Copyright &copy; 2022, Palak Devgan
 ## How to Contribute
 
 To contribute to this project,clone this repo locally and commit your code on separate branch.Then create a pull request for the author before merging it to main branch.
+
+## Screenshot
+
+
 
 ## Link to Deployed Application
 
