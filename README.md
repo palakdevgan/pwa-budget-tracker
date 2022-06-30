@@ -9,9 +9,9 @@ It is a Node.js budget tracker application that provides offline access and func
 
 [Installation](#installation)  
 [Usage](#usage)  
-[Contributing](#how-to-contribute)  
 [License](#license)  
-[Screenshot](#screenshot)
+[Contributing](#how-to-contribute)  
+[Screenshot](#screenshot)  
 
 ## Installation
 
@@ -32,7 +32,7 @@ To contribute to this project,clone this repo locally and commit your code on se
 
 ## Screenshot
 
-
+![screenshot](https://github.com/palakdevgan/pwa-budget-tracker/blob/main/public/images/screenshot.jpg?raw=true)
 
 ## Link to Deployed Application
 
